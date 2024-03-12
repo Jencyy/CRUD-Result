@@ -1,0 +1,39 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family:cursive,sans-serif;
+}
+
+.primary-color {
+  color: #ffd700;
+
+}
+.navbar-brand{
+  color: #ffd700;
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+label {
+  color: #ffd700;
+  /* Golden color */
+}
+
+.form-control {
+  background-color: #333;
+  color: #ffd700;
+}
+
+.btn {
+  border: 1px solid #ffd700;
+}
+
+.btn:hover{
+
+  border-color: #ffd700;
+}
+
